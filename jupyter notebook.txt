@@ -1,0 +1,33 @@
+C:\Program Files\Python312\Scripts>pip install notebook
+
+C:\Users\SYS8\AppData\Roaming\Python\Python312\Scripts>jupyter notebook
+
+***************************************************
+Program Files\Python312\Scripts>
+pip intsall numpy 
+pip install pandas
+pip install matyplotlib
+pip install seaborn
+pip install scikit-learn
+pip install tensorflow                                            
+pip install  keras   
+pip install opencv-python
+pip install Flask
+
+
+import tensorflow as tf
+print("TensorFlow version:", tf.__version__)   
+
+
+
+import keras
+print(keras.__version__)
+
+
+
+
+
+
+
+
+
